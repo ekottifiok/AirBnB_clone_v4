@@ -1,0 +1,6 @@
+airbnb_venv/
+*/__pycache__/
+*/*/__pycache__/
+*/*/*/__pycache__/
+requirements.txt
+env.sh
